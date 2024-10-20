@@ -1,0 +1,5 @@
+﻿.pytest/
+venv/
+../venus_22_sklyarov/.idea/
+.pytest_cache/
+__pycache__/
